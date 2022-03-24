@@ -1,0 +1,8 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto;
+  padding-bottom: 92px;
+  display: flex;
+  gap: 80px;
+  flex-direction: column;
+}
