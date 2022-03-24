@@ -2,8 +2,9 @@
   margin: 0;
   padding-bottom: 26px;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.63;
   font-weight: 400;
+  font-style: normal;
 }
 
 .place__paragraph:last-child {
