@@ -7,10 +7,15 @@
   font-style: normal;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 530px) {
+  .intro__title {
+    font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 320px) {
   .intro__title {
     font-size: 32px;
     line-height: 1.09;
-    max-width: 87%;
   }
 }
